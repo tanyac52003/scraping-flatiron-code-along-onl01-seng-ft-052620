@@ -3,7 +3,7 @@ class Course
   
   @@all = []
   
-  def in
+  
   
 end 
 
